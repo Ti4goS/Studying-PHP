@@ -3,7 +3,8 @@
 <?php 
 
 //include('./examples/hello.php'); 
-include('./examples/form.php');
+//include('./examples/form.php');
+include('./examples/database.php');
 
 ?>
 
